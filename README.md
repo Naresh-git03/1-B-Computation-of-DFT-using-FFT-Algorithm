@@ -52,17 +52,13 @@ ylabel('Amplitude');
 title('Inverse FFT OF X(K)');
 ```
 ### CALCULATIONS:
-<br>
-<br>
-<br>
-<br>
-<br>
-### SAMPLE OUTPUT:
-<br>
-<br>
-<br>
-<br>
 
+ <img width="1600" height="903" alt="207c34be-7df1-4869-b04d-c3f1d36d923f" src="https://github.com/user-attachments/assets/bb37f521-d4ae-46f7-ae5b-3510506375f0" />
+
+ <img width="1600" height="903" alt="dd2434a7-6fa3-4b70-b87d-8a589bae2a00" src="https://github.com/user-attachments/assets/94036a3e-edf2-41a5-ac80-e9c75e84192d" />
+
+### SAMPLE OUTPUT:
+<img width="876" height="697" alt="553899618-79c7d5f1-7c8b-4090-bf88-1d75724fd0f1" src="https://github.com/user-attachments/assets/c20db670-5404-4576-8c55-3a5a80b7d51e" />
 
 
 ## RESULT:
